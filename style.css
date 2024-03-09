@@ -1,0 +1,42 @@
+.height-900{
+	height:900px;
+}
+.ratio-4x3 {
+  @include media-breakpoint-up(md) {
+    --bs-aspect-ratio: 50%; // 2x1
+  }
+}
+.height-100{
+	height:85px;
+}
+.height-150{
+	height:132px;
+}
+.height-50{
+	height:50px;
+}
+.mt1{
+	margin-top:-20px;
+}
+.height-50{
+	height: 50px;
+}
+.margin-l-280{
+	margin-left: 280px;
+}
+.height-40{
+	height: 40px;
+}
+.grey{
+	background-color:#d3d3d3
+}
+.height-30{
+	height:30px;
+}
+.margin-left{
+	margin-left:100px
+
+}
+.width{
+	width:22px;
+}
